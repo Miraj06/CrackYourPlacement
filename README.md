@@ -1,2 +1,1 @@
-# CrackYourPlacement
-45-Days of DSA revision
+# 45-Days of DSA revision
